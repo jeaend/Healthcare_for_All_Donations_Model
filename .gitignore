@@ -5,5 +5,9 @@ Healthcare_for_all.csv
 2-clean_numerical.csv
 categorical.csv
 numerical.csv
+cache/3-X_train.csv
+cache/3-y_train.csv
+cache/3-X_test.csv
+cache/3-y_test.csv
 target.csv
 .DS_Store
