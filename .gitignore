@@ -9,5 +9,6 @@ cache/3-X_train.csv
 cache/3-y_train.csv
 cache/3-X_test.csv
 cache/3-y_test.csv
+./cache/3-all_cat_clean.csv
 target.csv
 .DS_Store
