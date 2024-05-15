@@ -3,4 +3,7 @@ Healthcare_for_all.csv
 1-clean_categorical.csv
 2-all_cat_clean.csv
 2-clean_numerical.csv
+categorical.csv
+numerical.csv
+target.csv
 .DS_Store
