@@ -12,3 +12,11 @@ cache/3-y_test.csv
 3-all_cat_clean.csv
 target.csv
 .DS_Store
+./cache/4-X_train-upsampled.csv
+./cache/4-y_train-upsampled.csv
+./cache/4-X_test-upsampled.csv'
+./cache/4-y_test-upsampled.csv
+cache/4-X_train-upsampled.csv
+cache/4-y_train-upsampled.csv
+cache/4-X_test-upsampled.csv
+cache/4-y_test-upsampled.csv
